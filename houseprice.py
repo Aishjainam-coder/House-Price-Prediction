@@ -71,8 +71,8 @@ Label(
     justify=LEFT,
     wraplength=500,
 ).place(x=20, y=130)
-spokenText.set("Which word do you want to find the meaning of,MAM?")
-speak("Which word do you want to find the meaning of, sir or madam")
+spokenText.set("Which word do you want to find the meaning of,mam?")
+speak("Which word do you want to find the meaning of, mam")
 
 # Button to do the spell check
 Button(
