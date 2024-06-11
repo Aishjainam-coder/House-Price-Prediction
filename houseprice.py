@@ -30,7 +30,7 @@ def meaning():
 
 # Create the window
 wn = Tk()
-wn.title("WRITE WORD WILL I GIVE MEANING")
+wn.title("WRITE WORD I WILL GIVE MEANING")
 wn.geometry("700x500")
 wn.config(bg="SlateGray1")
 
@@ -41,7 +41,7 @@ spokenText = StringVar(wn)
 # The main label
 Label(
     wn,
-    text="WRITE WORD WILL I  GIVE MEANING",
+    text="WRITE WORD  I  will GIVE MEANING",
     bg="SlateGray1",
     fg="gray30",
     font=("Times", 20, "bold"),
